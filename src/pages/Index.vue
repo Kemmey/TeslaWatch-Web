@@ -23,7 +23,7 @@
         <h2 class="text-3xl">Disclaimer</h2>
         <p>This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.</p>
         <h2 class="text-3xl">Bugs, feature requests and other issues</h2>
-        <p>Please use the public issue tracker for this app on <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues">GitHub to report bugs and feature requests and vote for upcoming features.</a></p>
+        <p>Please use the public issue tracker for this app on <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues">GitHub</a> to report bugs and feature requests and vote for upcoming features.</p>
       </div>
     </section>
   </Layout>

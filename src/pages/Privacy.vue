@@ -3,57 +3,110 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Privacy policy</h1>
       <div class="content">
-			<h1>Welcome to our Privacy Policy</h1>
-			<h3>Your privacy is critically important to us.</h3>
-			Kim Hansen is located at:<br/>
-			<address>
-			  Kim Hansen<br/><br/>01234455			</address>
 
-			<p>It is Kim Hansen's policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to <a href="https://watchfortesla.kimhansen.dk">https://watchfortesla.kimhansen.dk</a> (hereinafter, "us", "we", or "https://watchfortesla.kimhansen.dk"). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.</p>
-			<p>This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
 
-						<h2>Website Visitors</h2>
-			<p>Like most website operators, Kim Hansen collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Kim Hansen's purpose in collecting non-personally identifying information is to better understand how Kim Hansen's visitors use its website. From time to time, Kim Hansen may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-			<p>Kim Hansen also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://watchfortesla.kimhansen.dk blog posts. Kim Hansen only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.</p>
-			
-						<h2>Gathering of Personally-Identifying Information</h2>
-			<p>Certain visitors to Kim Hansen's websites choose to interact with Kim Hansen in ways that require Kim Hansen to gather personally-identifying information. The amount and type of information that Kim Hansen gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://watchfortesla.kimhansen.dk to provide a username and email address.</p>
-			
-						<h2>Security</h2>
-			<p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
-			
-						<h2>Advertisements</h2>
-			<p>Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Kim Hansen and does not cover the use of cookies by any advertisers.</p>
-			
-
-						<h2>Links To External Sites</h2>
-			<p>Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy and terms and conditions of every site you visit.</p>
-			<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.</p>
-			
-			
-			
-						<h2>Aggregated Statistics</h2>
-			<p>Kim Hansen may collect statistics about the behavior of visitors to its website. Kim Hansen may display this information publicly or provide it to others. However, Kim Hansen does not disclose your personally-identifying information.</p>
-			
-			
-						<h2>Cookies</h2>
-			<p>To enrich and perfect your online experience, Kim Hansen uses "Cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.</p>
-			<p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Kim Hansen uses cookies to help Kim Hansen identify and track visitors, their usage of https://watchfortesla.kimhansen.dk, and their website access preferences. Kim Hansen visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Kim Hansen's websites, with the drawback that certain features of Kim Hansen's websites may not function properly without the aid of cookies.</p>
-			<p>By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Kim Hansen's use of cookies.</p>
-			
-			
-			
-						<h2>Privacy Policy Changes</h2>
-			<p>Although most changes are likely to be minor, Kim Hansen may change its Privacy Policy from time to time, and in Kim Hansen's sole discretion. Kim Hansen encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-			
-			
-						  
-			  <h2></h2>			  
-			  	<p></p>			
-			
-			<h2>Credit & Contact Information</h2>
-							<p>This privacy policy was created at <a style="color:inherit;text-decoration:none;" href="https://termsandconditionstemplate.com/privacy-policy-generator/" title="Privacy policy template generator" target="_blank">termsandconditionstemplate.com</a>. If you have any questions about this Privacy Policy, please contact us via <a href="mailto:teslawatch@kimhansen.dk">email</a>.</p>
-      </div>
+<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset='utf-8'>
+      <meta name='viewport' content='width=device-width'>
+      <title>Privacy Policy</title>
+      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
+    </head>
+    <body>
+                <p>
+                  Kim Hansen built the Watch app for Tesla app as
+                  a Commercial app. This SERVICE is provided by
+                  Kim Hansen  and is intended for use as
+                  is.
+                </p> <p>
+                  This page is used to inform visitors regarding my
+                  policies with the collection, use, and disclosure of Personal
+                  Information if anyone decided to use my Service.
+                </p> <p>
+                  If you choose to use my Service, then you agree to
+                  the collection and use of information in relation to this
+                  policy. The Personal Information that I collect is
+                  used for providing and improving the Service. I will not use or share your information with
+                  anyone except as described in this Privacy Policy.
+                </p> <p>
+                  The terms used in this Privacy Policy have the same meanings
+                  as in our Terms and Conditions, which is accessible at
+                  Watch app for Tesla unless otherwise defined in this Privacy Policy.
+                </p> <p><strong>Information Collection and Use</strong></p> <p>
+                  For a better experience, while using our Service, I
+                  may require you to provide us with certain personally
+                  identifiable information. The information that
+                  I request will be retained on your device and is not collected by me in any way.
+                </p> <!----> <p><strong>Log Data</strong></p> <p>
+                  I want to inform you that whenever you
+                  use my Service, in a case of an error in the app
+                  I collect data and information (through third party
+                  products) on your phone called Log Data. This Log Data may
+                  include information such as your device Internet Protocol
+                  (“IP”) address, device name, operating system version, the
+                  configuration of the app when utilizing my Service,
+                  the time and date of your use of the Service, and other
+                  statistics.
+                </p> <p><strong>Cookies</strong></p> <p>
+                  Cookies are files with a small amount of data that are
+                  commonly used as anonymous unique identifiers. These are sent
+                  to your browser from the websites that you visit and are
+                  stored on your device's internal memory.
+                </p> <p>
+                  This Service does not use these “cookies” explicitly. However,
+                  the app may use third party code and libraries that use
+                  “cookies” to collect information and improve their services.
+                  You have the option to either accept or refuse these cookies
+                  and know when a cookie is being sent to your device. If you
+                  choose to refuse our cookies, you may not be able to use some
+                  portions of this Service.
+                </p> <p><strong>Service Providers</strong></p> <p>
+                  I may employ third-party companies and
+                  individuals due to the following reasons:
+                </p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>
+                  I want to inform users of this Service
+                  that these third parties have access to your Personal
+                  Information. The reason is to perform the tasks assigned to
+                  them on our behalf. However, they are obligated not to
+                  disclose or use the information for any other purpose.
+                </p> <p><strong>Security</strong></p> <p>
+                  I value your trust in providing us your
+                  Personal Information, thus we are striving to use commercially
+                  acceptable means of protecting it. But remember that no method
+                  of transmission over the internet, or method of electronic
+                  storage is 100% secure and reliable, and I cannot
+                  guarantee its absolute security.
+                </p> <p><strong>Links to Other Sites</strong></p> <p>
+                  This Service may contain links to other sites. If you click on
+                  a third-party link, you will be directed to that site. Note
+                  that these external sites are not operated by me.
+                  Therefore, I strongly advise you to review the
+                  Privacy Policy of these websites. I have
+                  no control over and assume no responsibility for the content,
+                  privacy policies, or practices of any third-party sites or
+                  services.
+                </p> <p><strong>Children’s Privacy</strong></p> <p>
+                  These Services do not address anyone under the age of 13.
+                  I do not knowingly collect personally
+                  identifiable information from children under 13. In the case
+                  I discover that a child under 13 has provided
+                  me with personal information, I immediately
+                  delete this from our servers. If you are a parent or guardian
+                  and you are aware that your child has provided us with
+                  personal information, please contact me so that
+                  I will be able to do necessary actions.
+                </p> <p><strong>Changes to This Privacy Policy</strong></p> <p>
+                  I may update our Privacy Policy from
+                  time to time. Thus, you are advised to review this page
+                  periodically for any changes. I will
+                  notify you of any changes by posting the new Privacy Policy on
+                  this page.
+                </p> <p>This policy is effective as of 2020-05-19</p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about my
+                  Privacy Policy, do not hesitate to contact me at teslawatch@kimhansen.dk.
+                </p> 
+         </div>
     </section>
   </Layout>
 </template>

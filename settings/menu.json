@@ -5,8 +5,15 @@
       "link": "/"
     },
     {
-      "name": "About",
+      "name": "FAQ",
       "link": "/about"
+    },
+    {
+      "name": "Support",
+      "link": "/support"
+    },
+      "name": "Privacy",
+      "link": "/privacy"
     },
     {
       "name": "Blog",

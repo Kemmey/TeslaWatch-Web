@@ -22,6 +22,8 @@
         <p>This app accepts two types of login. Either Tesla account credentials or a Tesla API token. Your account credentials are never stored in the app, and are used only once to obtain an authentication token and refresh token directly from the Tesla API server. If you would rather supply that token yourself, you can do so instead. It is preferable to supply a refresh token, as the app will then have a perpetual login. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password.</p>
         <h2 class="text-3xl">Disclaimer</h2>
         <p>This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.</p>
+        <h2 class="text-3xl">Bugs, feature requests and other issues</h2>
+        <p>Please use the public issue tracker for this app on <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues">GitHub to report bugs and feature requests and vote for upcoming features.</a></p>
       </div>
     </section>
   </Layout>

@@ -1,37 +1,24 @@
-# Gridsome Skeleventy Starter
+# Watch app for Tesla
 
-## Credits
+## About
 
-* This starter was initial created by [Joseph Dyer](https://github.com/josephdyer).
-
-
-## Demo
-[https://gridsome-starter-skeleventy.now.sh/](https://gridsome-starter-skeleventy.now.sh/)
+Check in on your vehicle, monitor charge state, unlock doors or charge port, activate HVAC preconditioning and set charge limit. Just the things you might need on a daily basis from your wrist - nothing less, nothing more - in a simple and intuitive interface.
 
 ## Features
 
-* Gridsome
-* Tailwindcss
-* SCSS
-* Markdown
-* Tags
-* Blog
+Available actions:
+- HVAC on/off
+- Open frunk or trunk
+- Lock/unlock car - when unlocking and charger is attached, charge port is also unlocked
+- Open/close charge port
+- Set charge limit
+- Start/stop charging if cable attached
+- If you have multiple vehicles, tap vehicle name to choose active vehicle
+- Complication showing current SoC and indicator if charging and charge time remaining. This will poll car for data every hour when disconnected or every 15 minutes if actively charging. These background updates can be disabled from the about screen, accessed from the bottom of the main interface by tapping the app logo
 
-## Plugins
+## A note about security and privacy:
+This app accepts two types of login. Either Tesla account credentials or a Tesla API token. Your account credentials are never stored in the app, and are used only once to obtain an authentication token and refresh token directly from the Tesla API server. If you would rather supply that token yourself, you can do so instead. It is preferable to supply a refresh token, as the app will then have a perpetual login. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password.
 
-With Gridsome offering a plugin-rich ecosystem, there are a few key plugins that make this project possible. 
+Disclaimer: This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.
 
-- [Gridsome Source Filesystem](https://gridsome.org/plugins/@gridsome/source-filesystem) Transform files into content that can be fetched with GraphQL in your components.
-
-## Install
-
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-blog https://github.com/noxify/gridsome-starter-skeleventy` to install gridsome with this starter
-2. `cd my-blog` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Get it on the [AppStore](https://apps.apple.com/us/app/watch-app-for-tesla/id1512108917).

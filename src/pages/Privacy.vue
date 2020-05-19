@@ -3,17 +3,6 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Privacy policy</h1>
       <div class="content">
-
-
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
                 <p>
                   Kim Hansen built the Watch app for Tesla app as
                   a Commercial app. This SERVICE is provided by

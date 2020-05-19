@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Watch app for Tesla',
 
   plugins: [
     {

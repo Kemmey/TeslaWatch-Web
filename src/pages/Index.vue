@@ -6,6 +6,18 @@
         <p>
           Convenience on the wrist.
         </p>
+
+        <img src="complications.png"/>
+        <img src="ChargeLimit.png"/>
+        <img src="Context.png"/>
+        <img src="Controls1.png"/>
+        <img src="Controls2.png"/>
+        <img src="Keyless.png"/>
+        <img src="Main_Alt.png"/>
+        <img src="Main.png"/>
+        <img src="MainControls.png"/>
+        <img src="Temps.png"/>
+        
         <h2 class="text-3xl">Convenience</h2>
         <P>Convenience on the wrist - Watch for Tesla is the ideal companion in day to day life with your Tesla vehicle. These are just a few of the day to day conveniences this app will help achieve:</P>
         <ul class="mb-12 list-disc pl-4">
@@ -62,6 +74,7 @@
         <p>This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.</p>
         <h2 class="text-3xl">Bugs, feature requests and other issues</h2>
         <p>Please use the public issue tracker for this app on <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues" target="_blank">GitHub</a> to report bugs and feature requests and vote for upcoming features.</p>
+        <p><a href="https://apps.apple.com/us/app/id1512108917" target="_blank"><img src="Download_on_the_App_Store_Badge_US.svg"/></a></p>
       </div>
     </section>
   </Layout>

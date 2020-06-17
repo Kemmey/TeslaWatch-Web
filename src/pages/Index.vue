@@ -7,16 +7,16 @@
           Convenience on the wrist.
         </p>
 
-        <img src="complications.png"/>
-        <img src="ChargeLimit.png"/>
-        <img src="Context.png"/>
-        <img src="Controls1.png"/>
-        <img src="Controls2.png"/>
-        <img src="Keyless.png"/>
-        <img src="Main_Alt.png"/>
-        <img src="Main.png"/>
-        <img src="MainControls.png"/>
-        <img src="Temps.png"/>
+        <figure class="mt-10 md:mt-20"><img src="complications.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="ChargeLimit.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Context.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Controls1.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Controls2.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Keyless.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Main_Alt.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Main.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="MainControls.png"/></figure>
+        <figure class="mt-10 md:mt-20"><img src="Temps.png"/></figure>
         
         <h2 class="text-3xl">Convenience</h2>
         <P>Convenience on the wrist - Watch for Tesla is the ideal companion in day to day life with your Tesla vehicle. These are just a few of the day to day conveniences this app will help achieve:</P>

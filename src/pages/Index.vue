@@ -62,14 +62,17 @@
           <li>If you have multiple vehicles, tap vehicle name to choose active vehicle</li>
           <li>Complication showing current SoC and indicator if charging and charge time remaining. This will poll car for data every hour when disconnected or every 15 minutes if actively charging. These background updates can be disabled from the about screen, accessed from the bottom of the main interface by tapping the app logo</li>
           <li>Tip Jar as In-App purchase. This does not enable extra functionality in the app, but serve solely to allow kind souls to give donations to the developer should you find the app to be useful. </li>
-          <li>Localized in the following languages</li>
+          <li>Localized in the following languages
           <ul>
             <li>English</li>
             <li>German</li>
             <li>Danish</li>
             <li>Swiss German</li>
             <li>Dutch</li>
+            <li>Swedish</li>
+            <li>Norwegian</li>
           </ul>
+          </li>
         </ul>
         <h2 class="text-3xl">A note about security and privacy</h2>
         <p>This app accepts two types of login. Either Tesla account credentials or a Tesla API token. Your account credentials are by default not stored in the app, but are used only once to obtain an authentication token and refresh token directly from the Tesla API server. If you would rather supply that token yourself, you can do so instead. It is preferable to supply a refresh token, as the app will then have a perpetual login. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password. With the optional keyless drive feature you can choose to store your password in the app - it will be securely stored in the watchOS keychain. This feature is optional and is not required for all other features to function. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers. The source code for this application will at all times be made available to any security researcher for a voluntary security and safety audit.</p>

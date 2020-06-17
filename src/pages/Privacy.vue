@@ -4,7 +4,7 @@
       <h1 class="page-title">Privacy policy</h1>
       <div class="content">
                 <p>
-                  Kim Hansen built the Watch app for Tesla app as
+                  Kim Hansen built the Watch for Tesla app as
                   a Commercial app. This SERVICE is provided by
                   Kim Hansen  and is intended for use as
                   is.
@@ -21,7 +21,7 @@
                 </p> <p>
                   The terms used in this Privacy Policy have the same meanings
                   as in our Terms and Conditions, which is accessible at
-                  Watch app for Tesla unless otherwise defined in this Privacy Policy.
+                  Watch for Tesla unless otherwise defined in this Privacy Policy.
                 </p> <p><strong>Information Collection and Use</strong></p> <p>
                   For a better experience, while using our Service, I
                   may require you to provide us with certain personally

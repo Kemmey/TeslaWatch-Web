@@ -17,6 +17,9 @@ That should open in the Shortcuts app, which is an app from Apple themselves tha
 
 First you'll see the Add shortcut screen - scroll all the down to the bottom, and you should se a red button "Add Untrusted Shortcut" - if you feel like, read all the steps in the shortcut and make sure you trust it. I do - and use it for my main login purposes for all 3rd party Tesla stuff - but you are your own man on this account. Then tap the button
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 !(./images/IMG_6577.png) !(./images/IMG_6578.png)
 
 You'll then have to configure the shortcut - you can either store your username and password in the shortcut itself, or enter them whenever you run it - up to you. I always configure it with my credentials, because I log in a lot - but that's really up to you. Tap the Text field and input your tesla account email, if you wish now - or do it later when you run the actual shortcut

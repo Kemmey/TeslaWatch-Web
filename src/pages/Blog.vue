@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <section id="container-centre" class="column centre flex-1">
-      <h1 class="page-title text-3xl md:text-center md:text-5xl mb-16 lg:mb-24 lg:text-6xl">Blog</h1>
+      <h1 class="page-title text-3xl md:text-center md:text-5xl mb-16 lg:mb-24 lg:text-6xl">Articles</h1>
       <div class="px-2">
         <div class="posts flex flex-wrap -mx-2">
           <div
@@ -53,7 +53,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Blog"
+    title: "Articles"
   }
 };
 </script>

@@ -5,7 +5,7 @@ category: Authentication
 excerpt: Guide to login with Tesla API token
 created: 2020-04-07
 image: ./images/IMG_6577.png
-image_caption: 
+image_caption: Acquire token by Shortcut
 author: author1
 ---
 

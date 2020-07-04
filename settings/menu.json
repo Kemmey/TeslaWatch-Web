@@ -9,6 +9,10 @@
       "link": "/faq"
     },
     {
+      "name": "Articles",
+      "link": "/blog"
+    },
+    {
       "name": "Support",
       "link": "https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues"
     },

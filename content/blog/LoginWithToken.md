@@ -4,7 +4,7 @@ tags: login, token, shortcuts
 category: Authentication
 excerpt: Guide to login with Tesla API token
 created: 2020-04-07
-image: 
+image: a
 image_caption: 
 author: author1
 ---

@@ -3,7 +3,7 @@ title: Login with Token
 tags: login, token, shortcuts
 category: Authentication
 excerpt: Guide to login with Tesla API token
-created: 2020-04-07
+created: 2020-07-04
 image: ./images/IMG_6577.png
 image_caption: Acquire token by Shortcut
 author: author1

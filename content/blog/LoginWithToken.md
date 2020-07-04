@@ -11,14 +11,19 @@ author: author1
 
 ## Acquire authentication Shortcut
 
-From your phone, navigate to this page and tap the green download shortcut button: (https://shareshortcuts.com/shortcuts/256-tesla-access-token.html)
+From your phone, navigate to this page and tap the green download shortcut button: https://shareshortcuts.com/shortcuts/256-tesla-access-token.html
 
 That should open in the Shortcuts app, which is an app from Apple themselves that should already be on your phone. It’s a scripting toolbox that allows you to automate a lot of stuff on your phone - and in our case, it allows us to call the Tesla api directly without a dedicated app. 
 
 First you'll see the Add shortcut screen - scroll all the down to the bottom, and you should se a red button "Add Untrusted Shortcut" - if you feel like, read all the steps in the shortcut and make sure you trust it. I do - and use it for my main login purposes for all 3rd party Tesla stuff - but you are your own man on this account. Then tap the button
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](./images/IMG_6577.png "Logo Title Text 1")
 
+!(./images/IMG_6577.png "Logo Title Text 1")
+
+!(./images/IMG_6577.png)
+
+![](./images/IMG_6577.png "")
 
 !(./images/IMG_6577.png) !(./images/IMG_6578.png)
 

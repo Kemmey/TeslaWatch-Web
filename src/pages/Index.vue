@@ -21,6 +21,12 @@
         <figure class="mt-10 md:mt-20"><img src="MainControls.png"/></figure>
         <figure class="mt-10 md:mt-20"><img src="Temps.png"/></figure>
 -->        
+
+<div style="background-color: yellow">
+        <h2 class="text-3xl">Advisory - active ongoing issue</h2>
+        <P>Please note that there is an active ongoing issue with authentication. This results in some users getting constantly logged out from the app, and in some cases, are unable to login again. Please join the conversation at this <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues/190">ongoing issue here</a>. </P>
+</div>
+
         <h2 class="text-3xl">Convenience</h2>
         <P>Convenience on the wrist - Watch for Tesla is the ideal companion in day to day life with your Tesla vehicle. These are just a few of the day to day conveniences this app will help achieve:</P>
         <ul class="mb-12 list-disc pl-4">

@@ -3,13 +3,6 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Frequently asked questions</h1>
       <div class="content">
-
-<div style="background-color: yellow">
-        <h2 class="text-3xl">Advisory - active ongoing issue</h2>
-        <P>Please note that there is an active ongoing issue with authentication. This results in some users getting constantly logged out from the app, and in some cases, are unable to login again. Please join the conversation at this <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues/190">ongoing issue here</a>. </P>
-</div>
-
-
         <h2 class="text-3xl">How to get a Tesla API authentication token?</h2>
         <p>Use this Apple Shortcuts shortcut to obtain a Tesla API token using nothing but first-party software. You can modify the shortcut and grab the "refresh_token" value instead in order to have a perpetual login in the watch: <a href="https://shareshortcuts.com/shortcuts/256-tesla-access-token.html">https://shareshortcuts.com/shortcuts/256-tesla-access-token.html</a></p>
         <h2 class="text-3xl">I bought the app, but it is not installing to my watch?</h2>

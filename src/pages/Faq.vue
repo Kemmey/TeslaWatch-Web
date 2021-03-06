@@ -3,8 +3,18 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Frequently asked questions</h1>
       <div class="content">
-        <h2 class="text-3xl">How to get a Tesla API authentication token?</h2>
-        <p>Use this Apple Shortcuts shortcut to obtain a Tesla API token using nothing but first-party software. You can modify the shortcut and grab the "refresh_token" value instead in order to have a perpetual login in the watch: <a href="https://shareshortcuts.com/shortcuts/256-tesla-access-token.html">https://shareshortcuts.com/shortcuts/256-tesla-access-token.html</a></p>
+        <h2 class="text-3xl">Watch app is logged out and refers to "Companion app not installed"</h2>
+        <p>
+          ADVISORY: On Friday  29/1-21 Tesla turned off legacy authentication. Now only MFA login will be supported. Impact is that login HAS to happen on iOS and then be transferred to the watch. It is NO LONGER possible to login directly on the watch. Please install the iOS app if missing. Thanks!<br/>
+
+          This will affect all third party apps from Friday going forward that have not updated the login mechanism. <br/>
+
+          Fortunately I did update Watch for Tesla three months ago, but you have to install the iOS companion app, since the login now require the use of a web browser, which is not available on the watch. <br/>
+
+          Please install the app from here - it's the same purchase as the watch app, so not a new or additional purchase. <br/>
+
+          <a href="https://apps.apple.com/dk/app/watch-app-for-tesla/id1512108917">https://apps.apple.com/dk/app/watch-app-for-tesla/id1512108917</a>
+        </p>
         <h2 class="text-3xl">I bought the app, but it is not installing to my watch?</h2>
         <p>Try opening the AppStore on your watch - scroll all the way to the bottom and tap on "Account" then on "Purchased" then on "My purchases" (skip this step if not enrolled in an Apple family account) and then find the app and tap on the cloud icon - the app should install then. When finished, tap on open to open up the app.</p>
         <p>Also ensure that your Apple Watch has been updated to at least WatchOS 6.2.</p>

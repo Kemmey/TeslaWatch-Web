@@ -29,10 +29,6 @@ module.exports = {
     }
   ],
   templates: {
-    Blog: [{
-      path: '/blog/:title',
-      component: './src/templates/BlogEntry.vue'
-    }],
     Category: [{
       path: '/category/:title',
       component: './src/templates/Category.vue'

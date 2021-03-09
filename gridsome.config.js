@@ -26,24 +26,6 @@ module.exports = {
         typeName: 'Author',
         path: './content/author/*.md'
       }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        typeName: 'Blog',
-        path: './content/blog/**/*.md',
-        refs: {
-          author: 'Author',
-          tags: {
-            typeName: 'Tag',
-            create: true
-          },
-          category: {
-            typeName: 'Category',
-            create: true
-          }
-        }
-      }
     }
   ],
   templates: {

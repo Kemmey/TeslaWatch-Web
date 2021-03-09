@@ -29,14 +29,6 @@ module.exports = {
     }
   ],
   templates: {
-    Category: [{
-      path: '/category/:title',
-      component: './src/templates/Category.vue'
-    }],
-    Tag: [{
-      path: '/tag/:title',
-      component: './src/templates/Tag.vue'
-    }]
   },
   chainWebpack: config => {
     config.resolve.alias.set('@modules', '@/resources/js/modules');

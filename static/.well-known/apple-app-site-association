@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "R8S8D227CC.dk.kimhansen.AuthAppForTesla"
+                ],
+                "components": [
+                    {
+                        "/": "/request-refresh-token",
+                        "?": {
+                            "app_id": "?",
+                            "app_data": ""
+                        },
+                        "comment": "external app refresh token request"
+                    }
+                ]
+            }
+        ]
+    }
+}

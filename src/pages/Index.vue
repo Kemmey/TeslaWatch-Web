@@ -79,7 +79,7 @@
         <h2 class="text-3xl">Disclaimer</h2>
         <p>This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.</p>
         <h2 class="text-3xl">Bugs, feature requests and other issues</h2>
-        <p>Please use the public issue tracker for this app on <a href="https://github.com/Kemmey/Kemmey-TeslaWatch-Public/issues" target="_blank">GitHub</a> to report bugs and feature requests and vote for upcoming features.</p>
+        <p>Please use the support contact information at the <a href="https://watchfortesla.helpscoutdocs.com" target="_blank">support page</a> to report bugs and feature requests.</p>
         <p><a href="https://apps.apple.com/us/app/id1512108917" target="_blank"><img src="Download_on_the_App_Store_Badge_US.svg"/></a></p>
       </div>
     </section>

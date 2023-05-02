@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html dir="auto" lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>My Page Title</title>
+
+	<meta name="description" content="Convenience on the wrist" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="icon" href="assets/favicon.png" />
+
+	<meta property="og:title" content="Watch for Tesla" />
+	<meta property="og:description" content="Convenience on the wrist" />
+	<meta property="og:image" content="assets/og-image.png" />
+
+	<link rel="stylesheet" href="assets/tobi.css" />
+	<link rel="stylesheet" href="assets/style.css" />
+
+</head>
+	<body>
+		<main>
+<header class="app__header container">
+	<div class="app__logo-wrapper"> <img class="app__logo" src="assets/icon.png" alt="Watch for Tesla"></div>
+	<div class="app__infos">
+		<h1 class="app__name">Watch for Tesla</h1>
+		<p class="app__description">Convenience on the wrist</p>
+		<div class="app__buttons app__buttons--desktop">
+			<a href="https://apps.apple.com/us/app/id1512108917" class="app__button-ios" target="_blank" title="Get on Appstore">
+				<img src="assets/ios-badge.svg" alt="Get on Appstore">
+			</a>
+		</div>
+	</div>
+</header>
+<div class="app__buttons app__buttons--mobile container">
+	<a href="https://apps.apple.com/us/app/id1512108917" class="app__button-ios" target="_blank" title="Get on Appstore">
+		<img src="assets/ios-badge.svg" alt="Get on Appstore">
+	</a>
+</div>
+<section class="app__screenshots app__section">
+	<div class="container">
+		<h2 class="app__section-title">Screenshots</h2>
+	</div>
+	<div class="app__screenshots-wrapper container-desktop">
+		<div class="app__screenshots-list">
+			<a href="assets/screenshot-master.png" class="lightbox">
+				<img src="assets/screenshot-master.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-controls.png" class="lightbox">
+				<img src="assets/screenshot-controls.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-chargestats.png" class="lightbox">
+				<img src="assets/screenshot-chargestats.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-compass.png" class="lightbox">
+				<img src="assets/screenshot-compass.png" class="app__screenshot" alt="" />
+			</a>
+			<!-- <a href="assets/screenshot-driving.png" class="lightbox">
+				<img src="assets/screenshot-driving.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-climate.png" class="lightbox">
+				<img src="assets/screenshot-climate.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-amps.png" class="lightbox">
+				<img src="assets/screenshot-amps.png" class="app__screenshot" alt="" />
+			</a>
+			<a href="assets/screenshot-shortcuts.png" class="lightbox">
+				<img src="assets/screenshot-shortcuts.png" class="app__screenshot" alt="" />
+			</a> -->
+		</div>
+	</div>
+</section>
+<section class="app__fulldescription app__section container">
+	<h2 class="app__section-title">Description</h2>
+	<div class="app__fulldescription-content">
+		<p>	Convenience on the wrist - Watch app for Tesla is the ideal companion in day to day life with your Tesla vehicle. These are just a few of the day to day conveniences this app will help achieve:</p>
+		<ul>
+			<li>Pair your watch as a proper vehicle key, just like your phone! Works under all conditions, including in underground parking garages or in the middle of a desert!</li>
+			<li>Forgot to plug in? Get a notification if vehicle is in a pre-configured location and not plugged in - all done directly on the watch, no external servers required, keeping your privacy!</li>
+			<li>Add the graphic corner complication to your watch face and enjoy the convenience of having easy access to state of charge, charging indicator, time remaining if charging, sentry mode active indicator and indicator if any windows, doors or trunks are open. All from one complication, that also will launch the app when tapped. </li>
+			<li>During and after charge, a panel will show how much energy was added. Convenient if you schedule your charge during the night - wake up each morning and easily check how much energy was added to the battery. </li>
+			<li>If you have multiple vehicles on your account, tap the vehicle name to quickly and easily switch between them. </li>
+			<li>You can queue up commands by tapping on buttons, then put your wrist down and the commands will execute in the background when the vehicle is successfully woken up. </li>
+			<li>When you tap the unlock vehicle button, the charge port will also unlock if a charging cable is attached. That's convenience right there!</li>
+			<li>Want to reduce phantom drain? Background updates can be configured to longer intervals between updates or to only update if car is already awake or can be disabled entirely for absolutely zero impact on phantom drain.</li>
+			<li>A warning panel will show up if any doors, windows or trunks are left open. Conveniently, you can tap the panel to close any open windows.</li>
+			<li>Need to access the frunk? Just do it from your wrist - no fiddling with your phone. </li>
+			<li>Sitting comfy in the couch, but just remembered you have a road-trip in the morning? Set the charge limit to 100% - or any value really - and start charging, right from the convenience of your wrist!</li>
+			<li>Leaving the office after a long hot day? Activate the HVAC when you're on your way, and enjoy a nice cool vehicle.</li>
+			<li>When charging, tap the time remaining label to switch to show time of expected completion - no more head calculus!</li>
+			<li>Need to run a quick errand, but you don't have your phone? Unlock your vehicle from your wrist, then activate remote start and off you go. Just please be mindful that this feature requires internet connectivity on both watch and vehicle - so don't drive into the desert and leave your vehicle, or you'll get stuck there!</li>
+		</ul>
+		<p>Made in Denmark</p>
+	</div>
+</section>
+<section class="app__fulldescription app__section container">
+	<h2 class="app__section-title">A note about security and privacy</h2>
+	<div class="app__fulldescription-content">
+		<p>This app accepts two types of login. Either Tesla account credentials or a Tesla API token. Your account credentials are never stored in the app, but are used only once to obtain an authentication token and refresh token directly from the Tesla API server. If you would rather supply that token yourself, you can do so instead. It is required to supply a refresh token. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers, unless the OPTIONAL cloud processing is enabled, in which case an in-flight encrypted ACCESS token with a lifespan of 8 hours will be transmitted and stored ONLY WHILE COMMAND IS EXECUTING. The source code for this application will at all times be made available to any security researcher for a voluntary security and safety audit.</p>
+	</div>
+</section>
+<section class="app__fulldescription app__section container">
+	<h2 class="app__section-title">Disclaimer</h2>
+	<div class="app__fulldescription-content">
+		<p>This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.</p>
+	</div>
+</section>
+<section class="app__fulldescription app__section container">
+	<h2 class="app__section-title">Bugs, feature requests and other issues</h2>
+	<div class="app__fulldescription-content">
+		<p>Please use the support contact information at the <a href="https://watchfortesla.helpscoutdocs.com">support page</a> to report bugs and feature requests.</p>
+	</div>
+</section>
+</main>
+		<footer class="footer">
+			<div class="container">
+				<div class="footer__container">
+					<p class="footer__love">
+						<script>document.write('&copy;' + (new Date()).getFullYear());</script><noscript>&copy;2023</noscript> Kim Hansen
+					</p>
+					<ul class="footer__links">
+						<li class="footer__link">
+							<a href="index.html">Home</a>
+						</li>
+						<li class="footer__link">
+							<a href="https://watchfortesla.helpscoutdocs.com">Support</a>
+						</li>
+						<li class="footer__link">
+							<a href="https://watchfortesla.helpscoutdocs.com">FAQ</a>
+						</li>
+						<li class="footer__link">
+							<a href="privacy.html">Privacy</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+
+		<script type="text/javascript" src="assets/tobi.min.js" /></script>
+		<script>
+			window.onload = function () {
+				var tobi = new Tobi();
+			};
+		</script>
+
+  </body>
+</html>
